@@ -28,3 +28,8 @@
  ol {
 	 color: #008000
 }
+.container {
+	width: 1500px;
+	height: 400px;
+	background-image: linear-gradient(to right, #E2BCBB, #E4514A);
+	}
