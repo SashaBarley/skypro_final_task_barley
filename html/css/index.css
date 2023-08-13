@@ -21,4 +21,12 @@
 	background-image: linear-gradient(to right, #E2BCBB, #E4514A);
 	}
 	
-	
+	.navi { 
+		text-decoration: none; 
+        color: #008080;
+	   } 
+
+       hr {
+    color: #008080; /* Цвет линии для остальных браузеров */
+    height: 4px; /* Толщина линии */
+	   }
