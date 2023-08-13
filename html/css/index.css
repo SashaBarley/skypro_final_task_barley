@@ -33,9 +33,4 @@
 	height: 850px;
 	background-image: linear-gradient(to right, #E2BCBB, #E4514A);
 	}
-	.icon {
-		width: 80; 
-		height: 80; 
-		border: 5;
-		hspace: 10;
-	  }
+	
