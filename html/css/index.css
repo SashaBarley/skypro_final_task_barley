@@ -18,7 +18,7 @@
 .container {
 	width: 1490px;
 	height: 850px;
-	background-image: linear-gradient(to top, #000000, #04a5a5);
+	background-image: linear-gradient(to bottom, #000000, #04a5a5);
 	}
 	
 	.navi { 
